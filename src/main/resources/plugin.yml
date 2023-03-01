@@ -1,0 +1,4 @@
+name: DamageManager
+version: '${project.version}'
+main: hu.xm.damagemanager.Main
+api-version: 1.19
